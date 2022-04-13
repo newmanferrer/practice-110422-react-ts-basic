@@ -12,8 +12,6 @@ practice on how to use react with typescript with some most used hooks, function
 - Custom Hook: useForm
 - Custom Hook: useFormReducer
 
----
-
 ## Author: Newman Ferrer
 
 newmanferrer@gmail.com
